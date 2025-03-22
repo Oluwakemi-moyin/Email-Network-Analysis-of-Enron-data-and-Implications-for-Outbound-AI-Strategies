@@ -81,7 +81,9 @@ A. Data Description
 - I created a directed weighted graph from the data using nx.DiGraph. 
 - The weights were calculated by counting the number of times each sender-recipient pair appears.
 See codes and images below;
+![Screenshot 2025-03-20 134302](https://github.com/user-attachments/assets/ea634c6f-66f8-4293-b896-0f6476160398)
 
+![Screenshot 2025-03-20 134434](https://github.com/user-attachments/assets/6efd234f-09f3-414b-8b04-5be48db86001)
 
 
 
@@ -91,6 +93,7 @@ B. Network Construction
 - The network was modeled as a directed graph because email communication has a direction: someone sends an email, and someone else receives it. A directed edge from node A to node B indicates that node A sent an email to node B, but not necessarily vice versa.
 Below is an image of the directed graph;
 
+![Screenshot 2025-03-20 135020](https://github.com/user-attachments/assets/955fef76-941f-4706-b615-367d51a610f7)
 
 
 
@@ -209,7 +212,8 @@ Network Efficiency (Avg. Shortest Path Length): 2.359
   - Reducing Communication Barriers: Outbound AI  can help businesses reduce communication barriers and improve efficiency by facilitating direct and rapid communication with their target audience.
 
 G. Visualizations 
-degree distribution plots
+● degree distribution plots
+![Screenshot 2025-03-20 135948](https://github.com/user-attachments/assets/f03f15d1-9311-407c-8358-6323206314ec)
 
 
 
