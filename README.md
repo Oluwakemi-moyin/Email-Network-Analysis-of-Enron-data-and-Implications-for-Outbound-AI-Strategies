@@ -12,9 +12,11 @@ A. Background : The Enron email dataset-
 
 - It is an edge list, where each line indicates a connection (email sent) between two nodes.
 
-● Relevance- The Underlying Principle- Communication Patterns: At its core, network analysis of the Enron emails helps us understand fundamental communication patterns. While the context is different (internal vs.outbound), the principles of effective communication remain relevant.
+● Relevance
+- The Underlying Principle- Communication Patterns: At its core, network analysis of the Enron emails helps us understand fundamental communication patterns. While the context is different (internal vs.outbound), the principles of effective communication remain relevant.
 
-● What is Network analysis? Network analysis is a method used to study relationships between entities, often represented as nodes (individual elements) and edges (connections between elements).
+● What is Network analysis? 
+Network analysis is a method used to study relationships between entities, often represented as nodes (individual elements) and edges (connections between elements).
 
 ● Importance of Network Analysis:
 
