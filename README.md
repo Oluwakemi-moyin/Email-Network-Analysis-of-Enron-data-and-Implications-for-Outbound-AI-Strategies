@@ -2,7 +2,9 @@
 
 I. Introduction
 
-A. Background : The Enron email dataset-
+A. Background : 
+Tool used: Python
+Data Source: The Enron email dataset-
 
 - The Enron email communication network dataset (email-enron) from Stanford Large Network Dataset Collection(SNAP) was selected for this analysis.
 
